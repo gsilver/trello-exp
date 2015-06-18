@@ -1,0 +1,22 @@
+.list-card-labels .card-label {
+  float: left;
+  height: 8px;
+  margin: 0 3px 3px 0;
+  padding: 0;
+  width: 42px;
+  line-height: 100px;
+}
+.card-label-lime {
+  background-color: #51e898;
+}
+.card-label-purple {
+  background-color: #c377e0;
+}
+.card-label-sky {
+  background-color: #00c2e0;
+}
+h3.list-head {
+	margin:20px 0;
+	padding:10px 0;
+	border-bottom:2px solid #aaa;
+}
