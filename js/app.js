@@ -11,7 +11,7 @@ trelloHack.run(function($rootScope) {
 
   // get token and key from a json file in the root dir:
   /*
- 
+ 	trello-conf.json
   {
 	"token":"trelloToken",
 	"key":"trelloKey"
